@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Github User Repository Search
+
+This is just an 'only for exercise' Github API search bar.
+Search and list all the user's repositories on a SPA application.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
